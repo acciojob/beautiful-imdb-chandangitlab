@@ -1,2 +1,30 @@
-
 /* Your CSS Code here. */
+/* Your CSS Code here. */
+body {
+	background-color: #121212;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.moviePic {
+	height: 450px;
+	width: 300px;
+	opacity: 0.9;
+	display: block;
+	margin: 30px auto 0;
+	border-radius: 10px;
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+}
+
+.movieDetail {
+	position: relative;
+	top: 20px;
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.6;
+	color: #e0e0e0;
+}
